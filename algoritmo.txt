@@ -1,0 +1,14 @@
+algoritmo1
+1.ler a primeira nota(mandar mensagem pa/ usuario e ler o que o usuario digitar)
+2.ler a segunda nota
+3. calcular a media das notas
+4.mostrar a media calculada
+5. ler a frequencia em porcentagem %
+6. digite o total de notas
+7. digite o n° de faltas do aluno
+8. calcular a porcentagem de frequencia
+9. se (media>=50 e frenquência>=75%){
+    entao o aluno Aprovado
+}senao{
+    entao aluno reprovado
+}
